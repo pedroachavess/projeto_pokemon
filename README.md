@@ -4,7 +4,7 @@ Este projeto consiste em uma API construída com o intuito de participar do proc
 
 ## 🛣️ Rotas
 
-Implementamos rotas para diversos endpoints, possibilitando funcionalidades como adição, remoção, atualização e listagem de produtos. Além disso, integramos um sistema de autenticação de login para garantir a segurança dos usuários.
+Implementamos rotas para diversos endpoints, de acordo com os requisitos do projeto.
 
 ## 🗃️ Banco de Dados SQLite
 
